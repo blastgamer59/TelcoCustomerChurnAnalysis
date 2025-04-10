@@ -32,23 +32,4 @@ Customer churn is a major problem in the telecom industry, and reducing churn is
 - Identified that **senior citizens** and certain contract types are more prone to churn.
 - Visualized trends with bar plots, pie charts, and correlation heatmaps.
 
----
 
-## 🚀 How to Run the Project
-
-1. **Clone the repository**
-   ```bash
-git clone https://github.com/your-username/telco-customer-churn-analysis.git
-cd telco-customer-churn-analysis
-Install dependencies
-bash
-Copy
-Edit
-pip install pandas numpy matplotlib seaborn jupyter
-Launch the notebook
-
-bash
-Copy
-Edit
-jupyter notebook
-Then open Telco Customer Churn Analysis.ipynb.
